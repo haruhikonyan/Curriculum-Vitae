@@ -219,3 +219,16 @@
 - Git
 ##### 担当業務
 
+### ??? : 趣味プロジェクト
+個人でゆるりと
+#### アマチュア音楽団体向け団員募集サイト開発
+- HTML
+- Bootstrap
+- SCSS
+- Angular
+- Rails
+- PostgreSQL
+- heroku
+- Git
+- Github
+- YouTrack
