@@ -252,3 +252,16 @@
 - Git
 - Github
 - YouTrack
+
+#### 演奏記録、演奏してみた上での曲レビューサイト開発
+- HTML
+- Bootstrap
+- SCSS
+- Nuxt.js
+- NestJS
+- MySQL
+- Docker
+- docker-compose
+- GCP
+- Git
+- Github
