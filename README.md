@@ -28,7 +28,11 @@
 - Beego
 - Angular
 - Vue.js
+- Nuxt.js
+- React
+- Next.js
 - Express
+- Nestjs
 - Bootstrap
 - CocosCreator
 
@@ -44,6 +48,7 @@
 - Vagrant
 - Kubernetes
 - GKE
+- k3s
 - Docker
 - docker-compose
 - Apache
@@ -262,6 +267,7 @@
 - MySQL
 - Docker
 - docker-compose
+- k3s
 - GCP
 - Git
 - Github
