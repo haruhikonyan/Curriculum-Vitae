@@ -258,7 +258,7 @@
 - Github
 - YouTrack
 
-#### 演奏記録の共有サイト (みゅーぐ)[https://musig.net/] 開発
+#### 演奏記録の共有サイト [みゅーぐ](https://musig.net/) 開発
 - HTML
 - Bootstrap
 - SCSS
