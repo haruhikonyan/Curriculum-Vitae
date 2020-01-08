@@ -224,6 +224,23 @@
 - Git
 - YouTrack
 ##### 担当業務
+#### [GROWI.cloud](https://growi.cloud/)開発(2019/-)
+##### 使用技術
+- HTML
+- Bootstrap
+- SCSS
+- Next.js
+- React
+- Express
+- MariaDB
+- GKE
+- Kubernetes
+- docker-compose
+- Docker
+- Gitlab
+- Git
+- YouTrack
+##### 担当業務
 
 
 ### 2018/12- 2019/3 : [株式会社クロスビット](https://x-bit.co.jp/)
