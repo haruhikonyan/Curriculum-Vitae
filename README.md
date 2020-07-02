@@ -7,6 +7,8 @@
 | Twitter  | [@sasuganaryuseki](https://twitter.com/sasuganaryuseki) |
 | HAKARERU|[月収診断](https://seroku.jp/hakareru/5c79223212a440000a9e7bf7)|
 
+### 忙しい人はこちら
+- [で、何ができるの？](https://github.com/haruhikonyan/Curriculum-Vitae/blob/master/value.md)
 ## スキル
 ### 言語
 - Java
