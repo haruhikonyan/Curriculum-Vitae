@@ -242,10 +242,28 @@
 - YouTrack
 ##### 担当業務
 
+#### ネットワーク調査業務ツール開発(2020/4-)
+##### 使用技術
+- HTML
+- Bootstrap
+- SCSS
+- Typescript
+- Chart.js
+- Rails
+- Azure API
+- PostgreSQL
+- docker-compose
+- Docker
+- Github
+- Git
+- Redmine
+##### 担当業務
+- 新機能開発
+- 既存コマンドラインツールの Rails 移植
 
 ### 2018/12- 2019/3 : [株式会社クロスビット](https://x-bit.co.jp/)
 副業
-#### 従業員管理システム[らくしふ](https://rakushifu.jp/)開発(2018/11- 2019/??)
+#### 従業員管理システム[らくしふ](https://rakushifu.jp/)開発(2018/11- 2019/3)
 ##### 使用技術
 - HTML
 - Stylus
@@ -260,6 +278,26 @@
 ##### 担当業務
 - 初めての副業(月30時間程度)
 - フロントエンド、バックエンドの連携をよしなにして実装を進める
+
+### 2020/2- : [Laboratik Inc.](https://laboratik.com/)
+副業
+#### コミュニケーション可視化ツール[We.](https://laboratik.com/we/index.html)開発(2020/2-)
+##### 使用技術
+- HTML
+- scss
+- Vue.js
+- Rails
+- PostgreSQL
+- docker-compose
+- Dcoker
+- AWS Elastic Beanstalk
+- Github actions
+- Github
+- Git
+##### 担当業務
+- 昨日開発
+- 既存機能の Vue.js 置き換え
+- CI/CD 構築
 
 ### ??? : 趣味プロジェクト
 個人でゆるりと
