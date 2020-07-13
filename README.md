@@ -297,7 +297,7 @@
 - Github
 - Git
 ##### 担当業務
-- 昨日開発
+- 機能開発
 - 既存機能の Vue.js 置き換え
 - CI/CD 構築
 
@@ -319,6 +319,7 @@
 - HTML
 - Bootstrap
 - SCSS
+- Typescript
 - Nuxt.js
 - NestJS
 - MySQL
@@ -326,5 +327,19 @@
 - docker-compose
 - k3s
 - GCP
+- Git
+- Github
+
+#### 練習会場空き状況確認スクレイピングツール bashotori 開発
+- HTML
+- Bootstrap5
+- SCSS
+- Typescript
+- puppeteer
+- Express
+- Docker
+- docker-compose
+- GIthub Actions
+- GCE
 - Git
 - Github
