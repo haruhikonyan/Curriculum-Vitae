@@ -2,11 +2,11 @@
 ## フロントエンドエンジニア
 - Nuxt.js(Vue)、Next.js(React)、Angularといった主要なフロントエンドjsライブラリを業務での利用経験がある
   - 既存の環境を上記ライブラリを用いたリファクタができる
-  - 最近では React　一本に絞ってる模様
+  - 最近では React 一本に絞ってる模様
 ## バックエンドエンジニア
 - Rails、ExpressといったMVCフレームワークを利用したアプリケーションの作成ができる
- 　-　Rails　がなんだかんだ一番得意
- 　-　時点で Node　系で TypeScript　が好き
+  - Rails　がなんだかんだ一番得意
+  - 次点が Node 系で TypeScript が好き
 ## インフラエンジニア
 - Github Actions 等をCIツールと、AWS,GCPといったクラウドサービスを組み合わせたCI/CD環境の構築ができる
 - Kubernetes で構築された環境に対してのオペレーションができる
