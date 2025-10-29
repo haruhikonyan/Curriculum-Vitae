@@ -40,6 +40,7 @@
 - Nestjs
 - Jest
 - Vitest
+- React Testing Library
 - Cypress
 - Playwright
 - Prisma
@@ -511,6 +512,7 @@
 - TypeScript
 - React
 - Vitest
+- React Testing Library
 - Prisma
 - PostgreSQL
 - docker compose
