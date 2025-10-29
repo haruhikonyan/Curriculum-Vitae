@@ -5,14 +5,14 @@
 | Name     | 大谷東彦(Haruhiko Otani)                                |
 | Facebook | [大谷東彦](https://www.facebook.com/ryuseki.sasuga)     |
 | Twitter  | [@sasuganaryuseki](https://twitter.com/sasuganaryuseki) |
-| HAKARERU|[月収診断](https://seroku.jp/hakareru/5c79223212a440000a9e7bf7)|
+| MENTA    |[haruhikonyan](https://menta.work/user/54758)|
 
 ### 忙しい人はこちら
 - [で、何ができるの？](https://github.com/haruhikonyan/Curriculum-Vitae/blob/master/value.md)
-## スキル
+## スキル(斜線はもう触らないであろうもの)
 ### 言語
-- Java
-- Groovy
+- ~~Java~~
+- ~~Groovy~~
 - JavaScript
 - TypeScript
 - Ruby
@@ -25,18 +25,28 @@
   - 海外旅行は一人でもどうにかなってる
 
 ### フレームワーク
-- Grails
+- ~~Grails~~
 - Ruby on Rails
-- Beego
+- Rspec
+- ~~Beego~~
 - Angular
 - Vue.js
 - Nuxt.js
 - React
 - Next.js
+  - app router
+  - page router
 - Express
 - Nestjs
+- Jest
+- Vitest
+- Cypress
+- Playwright
+- Prisma
 - Bootstrap
-- CocosCreator
+- tailwind
+- ~~Unity~~
+- ~~CocosCreator~~
 
 ### DB
 - MySQL
@@ -49,21 +59,31 @@
   - CentOS
 - Vagrant
 - Kubernetes
-- GKE
+- GCP
+  - GKE
+  - GCS
+  - GCE
+  - GAE
+  - Cloud Run
 - k3s
 - Docker
-- docker-compose
+- docker compose
 - Apache
 - Nginx
 ### ツール
 - Git
-- Mercurial
+- ~~Mercurial~~
+- GitHub Actions
+- devcontainer
 - Jenkins
 - CircleCI
 - Redmine
 - Youtrack
 - Growi
 - Slack
+### AI 関連
+- GitHub Copilot Agent
+  - Vive coding のお供
 ### その他
 - クラシックオタク
     - 管弦楽専門
@@ -73,14 +93,21 @@
 
 ## 強み
 - チャット上でのアウトプット力
+  - リモートワークでも心配かけないような分報力
 - アジャイル・スクラム開発経験
+  - アジャイルコーチ的なチームビルディングもできます
+- メンバー教育
+  - インターン生育成
+  - [MENTA スコア 10000 超え！](https://menta.work/user/54758)
 - マルチプロジェクト
     - コンテキストスイッチは早い方だと思っている
 - フルスタックエンジニア
+  - 0 からのシステム構築
+  - 同レイヤでも幅広い経験があるので素早い既存システムに対してのキャッチアップ力
 ## やったことはないが興味があるもの
 - マイクロサービスアーキテクチャ
 - GraphQL
-- 海外での仕事
+- ~~海外での仕事~~
 
 ## 職務経歴
 ### 2010/5- 2013/3 : [ブレインパッド株式会社](https://www.brainpad.co.jp/)
@@ -467,3 +494,25 @@
 - GCE
 - Git
 - Github
+
+#### [ラブライブカードゲームシミュレータ](https://loveca-simulator2.haruhiko.work/play)
+- HTML
+- tailwind
+- Next.js
+- TypeScript
+- React
+- GitHub Copilot Agent
+  - 9割くらいが AI 生成コード
+
+#### senkyokukaigi(TBD)
+- HTML
+- tailwind
+- Next.js
+- TypeScript
+- React
+- Vitest
+- Prisma
+- PostgreSQL
+- docker compose
+- GitHub Copilot Agent
+  - 9割くらいが AI 生成コード(仮)
